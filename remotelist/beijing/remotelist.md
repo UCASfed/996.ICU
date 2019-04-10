@@ -3,3 +3,4 @@
 | 公司名称 | 公司主页 | 职位列表 |
 | --- | --- | --- |
 | 新义互联（北京）科技有限公司 | [adtalos.com](https://adtalos.com/) | 程序员 |
+| 大街网 | [dajie.com](https://campus.dajie.com/) | 程序员 |
